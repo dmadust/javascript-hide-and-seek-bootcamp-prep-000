@@ -15,5 +15,5 @@ function increaseRankBy(n) {
 
 function deepestChild() {
   var deepest = querySelector("#grand-node");
-  while ()
+  while (deepest.querySelector(""))
 }
