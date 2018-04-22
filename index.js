@@ -12,3 +12,8 @@ function increaseRankBy(n) {
     elements[i].innerHTML = (parseInt(elements[i].innerHTML, 10) + n).toString();
   }
 }
+
+function deepestChild() {
+  var deepest = querySelector("#grand-node");
+  while ()
+}
